@@ -59,7 +59,6 @@ flutter:
   assets:
     - assets/profile-pics/
 
-
   fonts:
     - family: Roboto
       fonts:
